@@ -1,0 +1,20 @@
+{
+    "name": "SceneTransitions",
+    "rootNamespace": "JD.SceneTransitions",
+    "references": [
+        "GUID:dc0a4fd05c166134fb1fea70443c5fd6",
+        "GUID:49279e8927f68334b9136ac056ddb55c",
+        "GUID:c3132a0989b45ad4eb97010990ddb673",
+        "GUID:59f218d59ab530e4cbb4b04099aaed27",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
