@@ -75,6 +75,8 @@ namespace JD.SceneTransitions
             SceneManager.LoadScene(scene);
             
             yield return null;
+            yield return null;
+            yield return null;
             
             //Blocker.raycastTarget = false;
             
