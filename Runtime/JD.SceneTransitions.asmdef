@@ -1,5 +1,5 @@
 {
-    "name": "SceneTransitions",
+    "name": "JD.SceneTransitions",
     "rootNamespace": "JD.SceneTransitions",
     "references": [
         "GUID:dc0a4fd05c166134fb1fea70443c5fd6",
