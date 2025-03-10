@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "displayName": "Scene Transitions",
   "description": "Simple scene transitions for unity",
+  "license": "MIT",
   "dependencies": {
     "jd.boiv.in.extensions": "1.0.0",
     "jd.boiv.in.text": "1.0.0",
