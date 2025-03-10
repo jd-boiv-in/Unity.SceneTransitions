@@ -8,8 +8,8 @@
     "jd.boiv.in.text": "1.0.0",
     "jd.boiv.in.tween": "1.0.0",
     "jd.boiv.in.wait": "1.0.0"
- },
- "keywords": [
+  },
+  "keywords": [
     "scene", "transition"
   ],
   "author": {
